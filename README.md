@@ -1,6 +1,6 @@
-# Image Processing for Engineering and Science Specialization - Final Project
+# Image Processing for Engineering and Science Specialization - Final Project 📷📐
 
-📷📐 This is the final project for a 40 hour online course by MathWorks. The course can be found here: 
+This is the final project for a 40 hour online course by MathWorks. The course can be found here: 
 
 https://www.coursera.org/specializations/image-processing
 
